@@ -21,6 +21,7 @@ The three phases of the genetic algorithm were implemented as follows:
 Using an image of a soccer ball as our “original'' image, and an image of a brown bear as the “target”, the algorithm can create an image that looks like a soccer ball but gets classified as a brown bear by the VGG16 model. The following example instance prompts the classifier to give a confidence level of 96.9% that the image is of a brown bear, while having a mean-squared error of 199.9 (based on RGB pixel value) from the original soccer ball image.
 
 
-![alt text](https://github.com/fkosman/Adversarial-Image-Generator/blob/[main/original.jpeg?raw=true)
+<img src="original.jpeg" alt="Original Image" width="40%">    <img src="target.jpeg" alt="Target Image" width="40%" align="right">
 
-![alt text](https://github.com/fkosman/Adversarial-Image-Generator/blob/[main/target.jpeg?raw=true)
+<img src="succesful_attack" alt="Adversarial Example" width="60%" align="center">  
+
