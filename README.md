@@ -24,4 +24,3 @@ Using an image of a soccer ball as our “original'' image, and an image of a br
 <img src="original.jpeg" alt="Original Image" width="40%">    <img src="target.jpeg" alt="Target Image" width="40%" align="right">
 
 <img src="succesful_attack" alt="Adversarial Example" width="60%" align="center">  
-
